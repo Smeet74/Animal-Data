@@ -7,7 +7,7 @@
       "examples": [
         {
           "name": "Lion",
-          "image": "https://placeholder.com/images/lion.jpg",
+          "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/tiger_detail.png",
           "scientificName": "Panthera leo",
           "description":
               "Known as the king of the jungle, lions are majestic animals that live in groups called prides.",
@@ -18,7 +18,7 @@
         },
         {
           "name": "Elephant",
-          "image": "https://placeholder.com/images/elephant.jpg",
+          "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/tiger_detail.png",
           "scientificName": "Loxodonta africana",
           "description":
               "The largest land mammal, elephants are known for their long trunks and large ears.",
@@ -29,7 +29,7 @@
         },
         {
           "name": "Giraffe",
-          "image": "https://placeholder.com/images/giraffe.jpg",
+          "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/tiger_detail.png",
           "scientificName": "Giraffa camelopardalis",
           "description":
               "The tallest living terrestrial animals, giraffes are famous for their long necks.",
@@ -40,7 +40,7 @@
         },
         {
           "name": "Zebra",
-          "image": "https://placeholder.com/images/zebra.jpg",
+          "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/tiger_detail.png",
           "scientificName": "Equus quagga",
           "description":
               "Zebras are African equines with distinctive black-and-white striped coats.",
