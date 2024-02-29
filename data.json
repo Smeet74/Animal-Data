@@ -2,8 +2,8 @@
   "categories": [
     {
       "name": "Wild Animals",
-      "image": "https://placeholder.com/images/wild-animals.jpg",
-      "imageBg": "https://placeholder.com/images/jungle-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/wild_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category.png",
       "examples": [
         {
           "name": "Lion",
@@ -119,8 +119,8 @@
     },
     {
       "name": "Pet Animals",
-      "image": "https://placeholder.com/images/pet-animals.jpg",
-      "imageBg": "https://placeholder.com/images/home-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/pet_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category2.png",
       "examples": [
         {
           "name": "Dog",
@@ -236,8 +236,8 @@
     },
     {
       "name": "Aquatic Animals",
-      "image": "https://placeholder.com/images/aquatic-animals.jpg",
-      "imageBg": "https://placeholder.com/images/ocean-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/aquatic_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category.png",
       "examples": [
         {
           "name": "Shark",
@@ -353,8 +353,8 @@
     },
     {
       "name": "Farm Animals",
-      "image": "https://placeholder.com/images/farm-animals.jpg",
-      "imageBg": "https://placeholder.com/images/farm-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/farm_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category2.png",
       "examples": [
         {
           "name": "Cow",
@@ -466,8 +466,8 @@
     },
     {
       "name": "Insects",
-      "image": "https://placeholder.com/images/insects.jpg",
-      "imageBg": "https://placeholder.com/images/forest-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/insects_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category.png",
       "examples": [
         {
           "name": "Monarch Butterfly",
@@ -583,8 +583,8 @@
     },
     {
       "name": "Endangered Animals",
-      "image": "https://placeholder.com/images/endangered-animals.jpg",
-      "imageBg": "https://placeholder.com/images/conservation-bg.jpg",
+      "image": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/endangered_category.png",
+      "imageBg": "https://raw.githubusercontent.com/smeet74/Animal-Data/main/bg_category2.png",
       "examples": [
         {
           "name": "Amur Leopard",
